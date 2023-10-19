@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_home"
+        android:title="Home"
+        android:icon="@drawable/home" />
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:title="Explore"
+        android:icon="@drawable/mouse" />
+    <item
+        android:id="@+id/navigation_AroundYou"
+        android:title="Around You"
+        android:icon="@drawable/aroundyu" />
+    <item
+        android:id="@+id/navigation_Messages"
+        android:title="Messages"
+        android:icon="@drawable/chat" />
+    <item
+        android:id="@+id/navigation_Profile"
+        android:title="Profile"
+        android:icon="@drawable/profilepic" />
+</menu>
